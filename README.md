@@ -43,8 +43,6 @@ Le dataset **Iris** est un ensemble de données bien connu en machine learning. 
 
 Clonez ce repository sur votre machine locale :
 
-```bash
-git clone https://github.com/Takouchouang/IrisClassifierAI-2025.git
-cd IrisClassifierAI-2025
-'''
+- git clone https://github.com/Takouchouang/IrisClassifierAI-2025.git
+- cd IrisClassifierAI-2025
 ## 🤝 Contribuer
