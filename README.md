@@ -46,3 +46,9 @@ Clonez ce repository sur votre machine locale :
 - git clone https://github.com/Takouchouang/IrisClassifierAI-2025.git
 - cd IrisClassifierAI-2025
 ## 🤝 Contribuer
+
+## 👨‍💻 Auteurs
+Takouchouang Fraisse Sacre @Takouchouang 
+
+## 💬 Remerciements
+Merci beaucoup pour votre intérêt et vos contributions ! 🌿🤖 N'hésitez pas à poser des questions, à contribuer ou à laisser un "⭐" si vous aimez ce projet !
