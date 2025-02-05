@@ -48,7 +48,7 @@ Clonez ce repository sur votre machine locale :
 ## 🤝 Contribuer
 
 ## 👨‍💻 Auteurs
-- **Takouchouang Fraisse Sacre** @Takouchouang 
+- **Takouchouang Fraisse Sacre**  
 
 ## 💬 Remerciements
 Merci beaucoup pour votre intérêt et vos contributions ! 🌿🤖 N'hésitez pas à poser des questions, à contribuer ou à laisser un "⭐" si vous aimez ce projet !
