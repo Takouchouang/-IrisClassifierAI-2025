@@ -4,7 +4,7 @@
 
 ## 📌 Description
 
-Le but de ce projet est de développer un modèle capable de prédire l'espèce d'une fleur d'iris à partir de quatre caractéristiques mesurées : la longueur et la largeur des sépales et des pétales. Ce modèle est construit à l'aide de plusieurs algorithmes de machine learning afin d'optimiser les performances et garantir une classification fiable.
+Le but de ce projet est de développer un modèle capable de prédire l'espèce d'une fleur d'iris à partir de quatre caractéristiques mesurées : **la longueur** et la **largeur** des **sépales** et des **pétales**. Ce modèle est construit à l'aide de plusieurs algorithmes de machine learning afin d'optimiser les performances et garantir une classification fiable.
 
 ## 🚀 Objectifs
 
