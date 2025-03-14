@@ -11,7 +11,7 @@ Le but de ce projet est de développer un modèle capable de prédire l'espèce 
 - Développer un modèle d'apprentissage automatique capable de prédire **l'espèce d'une fleur d'iris**.
 - Utiliser des techniques de machine learning comme **K-Nearest Neighbors (KNN)**, **Random Forest**, et **Support Vector Machines (SVM)**.
 - Implémenter des outils de visualisation pour mieux comprendre les données et les résultats du modèle.
-- Optimiser les performances du modèle pour une reconnaissance précise des iris.
+- Optimiser les performances du modèle pour une reconnaissance précise des **iris**.
 
 ## 🔧 Technologies utilisées
 
