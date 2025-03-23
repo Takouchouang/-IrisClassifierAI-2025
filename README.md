@@ -25,10 +25,10 @@ Le but de ce projet est de développer un modèle capable de prédire l'espèce 
 
 Le dataset **Iris** est un ensemble de données bien connu en machine learning. Il comprend **150** observations de fleurs d'iris réparties en **trois espèces**, avec les mesures suivantes pour chaque fleur :
 
-- Longueur du sépale (cm)
-- Largeur du sépale (cm)
-- Longueur du pétale (cm)
-- Largeur du pétale (cm)
+- Longueur du **sépale** (cm)
+- Largeur du **sépale** (cm)
+- Longueur du **pétale** (cm)
+- Largeur du **pétale** (cm)
 
 ### Exemple de structure des données :
 
