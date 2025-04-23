@@ -1,6 +1,6 @@
 # IrisClassifierAI 2025 🌿🤖
 
-**IrisClassifierAI 2025** est un projet innovant de **classification des fleurs d'iris** utilisant des techniques de **machine learning** et de **vision artificielle**. Ce projet vise à fournir une reconnaissance précise des **espèces d'iris** en fonction de mesures spécifiques, en exploitant **l'intelligence artificielle** pour analyser et **classer les fleurs**.
+**IrisClassifierAI 2025** est un projet innovant de **classification des fleurs d'iris** utilisant des techniques de **machine learning** et de **vision artificielle**. Ce projet vise à fournir une reconnaissance précise des **espèces d'iris** en fonction de **mesures spécifiques**, en exploitant **l'intelligence artificielle** pour analyser et **classer les fleurs**.
 
 ## 📌 Description
 
